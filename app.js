@@ -7,4 +7,4 @@ app.get('/', function(req, res) {
 
 app.listen(3000, function() {
     console.log('Aplicacion ejemplo, escuchando el puerto 3000!');
-}); //conociendo rutas en express
+});
